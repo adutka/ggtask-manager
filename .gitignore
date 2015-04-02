@@ -16,7 +16,10 @@
 !/log/.keep
 /tmp
 
-# Игнорирование прочих ненужных файлов.
+# Ignore secrets.yml.
+config/secrets.yml
+
+# Ignore the others files.
 database.yml
 doc/
 *.swp
@@ -25,3 +28,5 @@ doc/
 .DS_Store
 .idea
 .secret
+
+
