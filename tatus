@@ -1,0 +1,59 @@
+[33mcommit 01ca188b57a0281dd29d36a9209059642079e091[m
+Author: adutka <adutka@ukr.net>
+Date:   Wed Apr 8 16:56:26 2015 +0300
+
+    fixed end
+
+[33mcommit 531aec867eb364cfa66f9d7f28d355dd4edd96d2[m
+Author: adutka <adutka@ukr.net>
+Date:   Wed Apr 8 16:50:29 2015 +0300
+
+    touched file
+
+[33mcommit 5100ae02adc5c7b43c22789fde8ffda247a5524a[m
+Author: adutka <adutka@ukr.net>
+Date:   Wed Apr 8 16:40:23 2015 +0300
+
+    removed sqlite
+
+[33mcommit 642bcc3d59575a0c4bc3b373f2e941e41fa7a46b[m
+Author: adutka <adutka@ukr.net>
+Date:   Thu Apr 2 19:03:36 2015 +0300
+
+    auth-fb-registration-app
+
+[33mcommit 7b5dc8509140a05126c8d8beaa887df8943a0bf2[m
+Author: adutka <adutka@ukr.net>
+Date:   Thu Apr 2 15:25:26 2015 +0300
+
+    sign-in-with-fb
+
+[33mcommit 54bfb933eda17f2c4abef9dce7aed08a9b1a0085[m
+Author: adutka <adutka@ukr.net>
+Date:   Sun Mar 22 18:44:16 2015 +0200
+
+    static_pages
+
+[33mcommit 8d18bbbe9b9a4f6faf2969144f0757848e461ffb[m
+Author: adutka <adutka@ukr.net>
+Date:   Sun Mar 22 13:16:04 2015 +0200
+
+    sign-in
+
+[33mcommit 3df92e06f93c7d62bc0c2294ead223eeb491e17e[m
+Author: adutka <adutka@ukr.net>
+Date:   Sun Mar 22 12:55:35 2015 +0200
+
+    sign-in
+
+[33mcommit 9ca6de7387b4b4299ad0816762eb9ca21e2b8cf1[m
+Author: adutka <adutka@ukr.net>
+Date:   Thu Mar 19 12:39:19 2015 +0200
+
+    initialize
+
+[33mcommit fbcc3f7c91e7c8326ae8f15f215814069e478e21[m
+Author: adutka <adutka@ukr.net>
+Date:   Thu Mar 19 11:34:17 2015 +0200
+
+    Initial commit
